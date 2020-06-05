@@ -526,7 +526,7 @@ If you don't have time to work on the issue anymore (for example, if the convers
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+## 🎉 Your contribution gets accepted. ##
 
 Hooray! You've successfully made an open source contribution!
 
